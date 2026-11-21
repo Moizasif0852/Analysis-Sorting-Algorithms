@@ -1,0 +1,17 @@
+Test Case,Algorithm,Average Time (Microseconds),Comparisons,Swaps
+Size 5 - Sorted,Selection Sort,6.6667,10,0
+Size 5 - Sorted,Bubble Sort,4.3,10,0
+Size 5 - Sorted,Quick Sort,9.0667,10,0
+Size 5 - Sorted,Merge Sort,11.1667,5,N/A
+Size 5 - Reverse,Selection Sort,4.3,10,2
+Size 5 - Reverse,Bubble Sort,5.0667,10,10
+Size 5 - Reverse,Quick Sort,7.2333,10,2
+Size 5 - Reverse,Merge Sort,11.6,7,N/A
+Size 100 - Sorted,Selection Sort,389.4667,4950,0
+Size 100 - Sorted,Bubble Sort,411.7,4950,0
+Size 100 - Sorted,Quick Sort,622.0667,4950,0
+Size 100 - Sorted,Merge Sort,285.8667,316,N/A
+Size 100 - Reverse,Selection Sort,435.6333,4950,50
+Size 100 - Reverse,Bubble Sort,788.7,4950,4950
+Size 100 - Reverse,Quick Sort,1028.8333,4950,50
+Size 100 - Reverse,Merge Sort,135.5667,356,N/A
